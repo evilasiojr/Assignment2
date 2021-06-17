@@ -1,0 +1,36 @@
+<!-- Created by Evilasio Junior #301122341 - 18/06/2021 -->
+<!--Contact Page-->
+<%- include partials/header.ejs %>
+
+<%- include partials/main_nav.ejs %>
+
+<!-- Main Content -->
+<main class="container">
+    <div class="jumbotron">
+        <h1 class="display-4"></h1>
+    
+        <h3 class="display-6">Feel free to follow me on social media:</h3>
+        <br><br>
+        <th><p><i class="fab fa-lg fa-instagram"></i> Instagram:<a href= "https://www.instagram.com/evilasio.jr/" target="_blank"> <b>@evilasio.jr </a></b></p></th>
+        <th><p><i class="fab fa-lg fa-linkedin"></i> linkedin:<a href= "https://www.linkedin.com/in/evilasio-bahia-costa-junior-64369561/" target="_blank"> <b>Evilasio Junior </a></b></p></th>
+        <p><i class="fab fa-lg fa-twitter"></i> Twitter: <a href= "https://twitter.com/evilasiojunior" target="_blank"><b>@evilasiojunior</a></b></p>
+        <p><i class="fas fa-envelope-open-text"></i> E-mail: <a target="_blank"><b>evilasiojunior@hotmail.com</a></b></p><br>
+        <p>Do not hesite to contact me for more informations.</p>
+        
+        <div class="form-container">
+            <form method="POST" action="/contact">
+                <label for="fnameinput">Full Name: </label>
+                <input type="text" name="name">
+                <label for="fnameinput">E-mail: </label>
+                <input type="email" name="email"/><br>
+                <input type="submit" value="SUBMIT" />
+                <input type="reset" id="reset" class="button1" value="CLEAR FORM" />
+            </form>
+        </div><br>
+        <p><i class="fas fa-lg fa-mobile-alt"></i> Phone Number: <b>647-607-9093</b></p> 
+    </div>
+</main>
+
+<%- include partials/bottom_nav.ejs %> 
+
+<%- include partials/footer.ejs %>

@@ -1,0 +1,39 @@
+<!-- Created by Evilasio Junior #301122341 - 18/06/2021 -->
+
+<%- include partials/header.ejs %>
+
+<%- include partials/main_nav.ejs %>
+  
+
+  <!-- Main Content -->
+  <main class="container">
+    <div class="jumbotron">
+        <% if (title == "Home") { %> <%- include home.ejs %>
+          <% } else { %>
+            <% if (title == "About Me") { %> <%- include about.ejs %>
+              <% } else { %>
+                <% if (title == "Projects") { %> <%- include project.ejs %>
+                  <% } else { %>
+                    <% if (title == "Services") { %> <%- include services.ejs %>
+                      <% } else { %>
+                        <% if (title == "Business Contact List") { %> <%- include list.ejs %>
+                          <% } else { %>
+                            <% if (title == "Contact Me") { %> <%- include contact.ejs %>
+                              <% } else { %>
+                  <% } %>
+                <% } %>
+              <% } %>
+            <% } %>
+          <% } %>
+        <% } %>
+    </div>
+  </main>
+  
+<%- include partials/bottom_nav.ejs %>  
+
+<%- include partials/footer.ejs %>
+  
+
+
+
+
