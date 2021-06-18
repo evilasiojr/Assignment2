@@ -33,10 +33,8 @@ module.exports.displayAddPage = (req, res, next) => {
 module.exports.processAddPage = (req, res, next) => {
     let newContact = Contact({
         "name": req.body.name,
-        "author": req.body.author,
-        "published": req.body.published,
-        "description": req.body.description,
-        "price": req.body.price
+        "number": req.body.number,
+        "email": req.body.email,
     });
 
     Contact.create(newContact, (err, Contact) =>{
@@ -66,7 +64,7 @@ module.exports.displayEditPage = (req, res, next) => {
         else
         {
             //show the edit view
-            res.render('contact/edit', {title: 'Edit Contact', contact: ContactToEdit, 
+            res.render('contact/edit', {title: 'Edit', contact: ContactToEdit, 
             displayName: req.user ? req.user.displayName : ''})
         }
     });
@@ -78,10 +76,8 @@ module.exports.processEditPage = (req, res, next) => {
     let updatedContact = Contact({
         "_id": id,
         "name": req.body.name,
-        "author": req.body.author,
-        "published": req.body.published,
-        "description": req.body.description,
-        "price": req.body.price
+        "number": req.body.number,
+        "email": req.body.email,
     });
 
     Contact.updateOne({_id: id}, updatedContact, (err) => {
