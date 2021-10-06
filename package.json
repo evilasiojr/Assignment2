@@ -1,5 +1,5 @@
 {
-  "name": "comp229-f2020-week6",
+  "name": "assignment2",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -53,5 +53,6 @@
   "bugs": {
     "url": "https://github.com/evilasiojr/COMP229-Assignment1/issues"
   },
-  "homepage": "https://github.com/evilasiojr/COMP229-Assignment1git"
+  "homepage": "https://github.com/evilasiojr/COMP229-Assignment1git",
+  "keywords": []
 }

@@ -1,0 +1,89 @@
+Arguments: 
+  C:\Program Files (x86)\nodejs\node.exe C:\Users\evila\AppData\Roaming\npm\node_modules\yarn\bin\yarn.js install
+
+PATH: 
+  C:\Program Files\Python39\Scripts\;C:\Program Files\Python39\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Users\evila\Desktop\WINDOWS.X64_193000_db_home\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Program Files (x86)\nodejs\;C:\Users\evila\AppData\Local\Programs\Python\Python39\Scripts\;C:\Users\evila\AppData\Local\Programs\Python\Python39\;C:\Users\evila\AppData\Local\Microsoft\WindowsApps;C:\Users\evila\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\evila\.dotnet\tools;C:\Program Files\Git\bin;C:\Program Files (x86)\nodejs;C:\Users\evila\AppData\Roaming\npm;C:\Program Files\MongoDB\Server\4.4\bin;C:\Program Files\Oracle;C:\Users\evila\AppData\Local\Programs\mongosh\
+
+Yarn version: 
+  1.22.10
+
+Node version: 
+  14.17.0
+
+Platform: 
+  win32 ia32
+
+Trace: 
+  Error: https://npm.fontawesome.com/@fortawesome%2ffontawesome-free: authentication required
+      at Request.params.callback [as _callback] (C:\Users\evila\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:66988:18)
+      at Request.self.callback (C:\Users\evila\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:140662:22)
+      at Request.emit (events.js:376:20)
+      at Request.<anonymous> (C:\Users\evila\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:141634:10)
+      at Request.emit (events.js:376:20)
+      at IncomingMessage.<anonymous> (C:\Users\evila\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:141556:12)
+      at Object.onceWrapper (events.js:482:28)
+      at IncomingMessage.emit (events.js:388:22)
+      at endReadableNT (internal/streams/readable.js:1336:12)
+      at processTicksAndRejections (internal/process/task_queues.js:82:21)
+
+npm manifest: 
+  {
+    "name": "comp229-f2020-week6",
+    "version": "0.0.1",
+    "private": true,
+    "scripts": {
+      "start": "node ./server.js"
+    },
+    "engines": {
+      "node": "^14.0.0",
+      "npm": "^6.0.0"
+    },
+    "dependencies": {
+      "@fortawesome/fontawesome-free": "^5.14.0",
+      "bootstrap": "^4.5.2",
+      "connect-flash": "^0.1.1",
+      "cookie-parser": "~1.4.4",
+      "cors": "^2.8.5",
+      "debug": "~2.6.9",
+      "ejs": "~2.6.1",
+      "express": "~4.16.1",
+      "express-session": "^1.17.1",
+      "http-errors": "~1.6.3",
+      "jquery": "^3.5.1",
+      "jsonwebtoken": "^8.5.1",
+      "mongoose": "^5.10.2",
+      "morgan": "~1.9.1",
+      "passport": "^0.4.1",
+      "passport-jwt": "^4.0.0",
+      "passport-local": "^1.0.0",
+      "passport-local-mongoose": "^6.0.1",
+      "popper.js": "^1.16.1"
+    },
+    "devDependencies": {
+      "@types/connect-flash": "0.0.36",
+      "@types/cors": "^2.8.7",
+      "@types/express": "^4.17.12",
+      "@types/express-session": "^1.17.3",
+      "@types/jsonwebtoken": "^8.5.0",
+      "@types/mongoose": "^5.11.97",
+      "@types/passport": "^1.0.6",
+      "@types/passport-jwt": "^3.0.3",
+      "@types/passport-local": "^1.0.33",
+      "@types/passport-local-mongoose": "^4.0.14"
+    },
+    "description": "Assignment2",
+    "main": "server.js",
+    "repository": "git+https://github.com/evilasiojr/COMP229-Assignment2.git",
+    "author": "Evilasio Junior",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/evilasiojr/COMP229-Assignment1/issues"
+    },
+    "homepage": "https://github.com/evilasiojr/COMP229-Assignment1git"
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
