@@ -1,0 +1,7 @@
+C:\Users\evila\source\repos\Studying Visual\Operations\bin\Debug\Operations.exe.config
+C:\Users\evila\source\repos\Studying Visual\Operations\bin\Debug\Operations.exe
+C:\Users\evila\source\repos\Studying Visual\Operations\bin\Debug\Operations.pdb
+C:\Users\evila\source\repos\Studying Visual\Operations\obj\Debug\Operations.csprojAssemblyReference.cache
+C:\Users\evila\source\repos\Studying Visual\Operations\obj\Debug\Operations.csproj.CoreCompileInputs.cache
+C:\Users\evila\source\repos\Studying Visual\Operations\obj\Debug\Operations.exe
+C:\Users\evila\source\repos\Studying Visual\Operations\obj\Debug\Operations.pdb

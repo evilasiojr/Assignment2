@@ -1,0 +1,7 @@
+C:\Users\evila\source\repos\ConsoleApp7\Exercise Loop 5\obj\Debug\Exercise Loop 5.csproj.CoreCompileInputs.cache
+C:\Users\evila\source\repos\ConsoleApp7\Exercise Loop 5\bin\Debug\Exercise Loop 5.exe.config
+C:\Users\evila\source\repos\ConsoleApp7\Exercise Loop 5\bin\Debug\Exercise Loop 5.exe
+C:\Users\evila\source\repos\ConsoleApp7\Exercise Loop 5\bin\Debug\Exercise Loop 5.pdb
+C:\Users\evila\source\repos\ConsoleApp7\Exercise Loop 5\obj\Debug\Exercise Loop 5.exe
+C:\Users\evila\source\repos\ConsoleApp7\Exercise Loop 5\obj\Debug\Exercise Loop 5.pdb
+C:\Users\evila\source\repos\ConsoleApp7\Exercise Loop 5\obj\Debug\Exercise Loop 5.csprojAssemblyReference.cache

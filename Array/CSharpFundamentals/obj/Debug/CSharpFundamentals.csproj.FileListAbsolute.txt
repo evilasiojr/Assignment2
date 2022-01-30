@@ -1,0 +1,7 @@
+C:\Users\evila\source\repos\Array\CSharpFundamentals\bin\Debug\CSharpFundamentals.exe.config
+C:\Users\evila\source\repos\Array\CSharpFundamentals\bin\Debug\CSharpFundamentals.exe
+C:\Users\evila\source\repos\Array\CSharpFundamentals\bin\Debug\CSharpFundamentals.pdb
+C:\Users\evila\source\repos\Array\CSharpFundamentals\obj\Debug\CSharpFundamentals.csprojAssemblyReference.cache
+C:\Users\evila\source\repos\Array\CSharpFundamentals\obj\Debug\CSharpFundamentals.csproj.CoreCompileInputs.cache
+C:\Users\evila\source\repos\Array\CSharpFundamentals\obj\Debug\CSharpFundamentals.exe
+C:\Users\evila\source\repos\Array\CSharpFundamentals\obj\Debug\CSharpFundamentals.pdb

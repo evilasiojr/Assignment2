@@ -1,0 +1,7 @@
+C:\Users\evila\source\repos\Making decisions\Making decisions\bin\Debug\Making decisions.exe.config
+C:\Users\evila\source\repos\Making decisions\Making decisions\bin\Debug\Making decisions.exe
+C:\Users\evila\source\repos\Making decisions\Making decisions\bin\Debug\Making decisions.pdb
+C:\Users\evila\source\repos\Making decisions\Making decisions\obj\Debug\Making decisions.csprojAssemblyReference.cache
+C:\Users\evila\source\repos\Making decisions\Making decisions\obj\Debug\Making decisions.csproj.CoreCompileInputs.cache
+C:\Users\evila\source\repos\Making decisions\Making decisions\obj\Debug\Making decisions.exe
+C:\Users\evila\source\repos\Making decisions\Making decisions\obj\Debug\Making decisions.pdb

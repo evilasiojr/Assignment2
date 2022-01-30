@@ -1,0 +1,7 @@
+C:\Users\evila\source\repos\Making decisions\Nested if statements\bin\Debug\Nested if statements.exe.config
+C:\Users\evila\source\repos\Making decisions\Nested if statements\bin\Debug\Nested if statements.exe
+C:\Users\evila\source\repos\Making decisions\Nested if statements\bin\Debug\Nested if statements.pdb
+C:\Users\evila\source\repos\Making decisions\Nested if statements\obj\Debug\Nested if statements.csprojAssemblyReference.cache
+C:\Users\evila\source\repos\Making decisions\Nested if statements\obj\Debug\Nested if statements.csproj.CoreCompileInputs.cache
+C:\Users\evila\source\repos\Making decisions\Nested if statements\obj\Debug\Nested if statements.exe
+C:\Users\evila\source\repos\Making decisions\Nested if statements\obj\Debug\Nested if statements.pdb

@@ -1,0 +1,4 @@
+C:\Users\evila\source\repos\ConsoleApp10\SchoolTracker\obj\Debug\netcoreapp3.1\SchoolTracker.csprojAssemblyReference.cache
+C:\Users\evila\source\repos\ConsoleApp10\SchoolTracker\obj\Debug\netcoreapp3.1\SchoolTracker.AssemblyInfoInputs.cache
+C:\Users\evila\source\repos\ConsoleApp10\SchoolTracker\obj\Debug\netcoreapp3.1\SchoolTracker.AssemblyInfo.cs
+C:\Users\evila\source\repos\ConsoleApp10\SchoolTracker\obj\Debug\netcoreapp3.1\SchoolTracker.csproj.CoreCompileInputs.cache

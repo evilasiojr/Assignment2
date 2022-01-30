@@ -1,0 +1,7 @@
+C:\Users\evila\source\repos\NewAssignment6\NewAssignment6\obj\Debug\NewAssignment6.csprojAssemblyReference.cache
+C:\Users\evila\source\repos\NewAssignment6\NewAssignment6\obj\Debug\NewAssignment6.csproj.CoreCompileInputs.cache
+C:\Users\evila\source\repos\NewAssignment6\NewAssignment6\bin\Debug\NewAssignment6.exe.config
+C:\Users\evila\source\repos\NewAssignment6\NewAssignment6\bin\Debug\NewAssignment6.exe
+C:\Users\evila\source\repos\NewAssignment6\NewAssignment6\bin\Debug\NewAssignment6.pdb
+C:\Users\evila\source\repos\NewAssignment6\NewAssignment6\obj\Debug\NewAssignment6.exe
+C:\Users\evila\source\repos\NewAssignment6\NewAssignment6\obj\Debug\NewAssignment6.pdb

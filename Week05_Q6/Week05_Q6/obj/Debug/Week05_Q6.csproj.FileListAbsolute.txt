@@ -1,0 +1,7 @@
+C:\Users\evila\source\repos\Week05_Q6\Week05_Q6\bin\Debug\Week05_Q6.exe.config
+C:\Users\evila\source\repos\Week05_Q6\Week05_Q6\bin\Debug\Week05_Q6.exe
+C:\Users\evila\source\repos\Week05_Q6\Week05_Q6\bin\Debug\Week05_Q6.pdb
+C:\Users\evila\source\repos\Week05_Q6\Week05_Q6\obj\Debug\Week05_Q6.csprojAssemblyReference.cache
+C:\Users\evila\source\repos\Week05_Q6\Week05_Q6\obj\Debug\Week05_Q6.csproj.CoreCompileInputs.cache
+C:\Users\evila\source\repos\Week05_Q6\Week05_Q6\obj\Debug\Week05_Q6.exe
+C:\Users\evila\source\repos\Week05_Q6\Week05_Q6\obj\Debug\Week05_Q6.pdb

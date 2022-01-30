@@ -1,0 +1,7 @@
+C:\Users\evila\source\repos\Exercises Switch\Exercises Switch\obj\Debug\Exercises Switch.csprojAssemblyReference.cache
+C:\Users\evila\source\repos\Exercises Switch\Exercises Switch\obj\Debug\Exercises Switch.csproj.CoreCompileInputs.cache
+C:\Users\evila\source\repos\Exercises Switch\Exercises Switch\bin\Debug\Exercises Switch.exe.config
+C:\Users\evila\source\repos\Exercises Switch\Exercises Switch\bin\Debug\Exercises Switch.exe
+C:\Users\evila\source\repos\Exercises Switch\Exercises Switch\bin\Debug\Exercises Switch.pdb
+C:\Users\evila\source\repos\Exercises Switch\Exercises Switch\obj\Debug\Exercises Switch.exe
+C:\Users\evila\source\repos\Exercises Switch\Exercises Switch\obj\Debug\Exercises Switch.pdb

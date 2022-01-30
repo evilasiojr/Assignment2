@@ -1,0 +1,7 @@
+C:\Users\evila\source\repos\Making decisions\Switch Case Statement\obj\Debug\Switch Case Statement.csprojAssemblyReference.cache
+C:\Users\evila\source\repos\Making decisions\Switch Case Statement\obj\Debug\Switch Case Statement.csproj.CoreCompileInputs.cache
+C:\Users\evila\source\repos\Making decisions\Switch Case Statement\bin\Debug\Switch Case Statement.exe.config
+C:\Users\evila\source\repos\Making decisions\Switch Case Statement\bin\Debug\Switch Case Statement.exe
+C:\Users\evila\source\repos\Making decisions\Switch Case Statement\bin\Debug\Switch Case Statement.pdb
+C:\Users\evila\source\repos\Making decisions\Switch Case Statement\obj\Debug\Switch Case Statement.exe
+C:\Users\evila\source\repos\Making decisions\Switch Case Statement\obj\Debug\Switch Case Statement.pdb

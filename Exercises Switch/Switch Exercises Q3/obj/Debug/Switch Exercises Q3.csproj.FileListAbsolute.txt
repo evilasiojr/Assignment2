@@ -1,0 +1,7 @@
+C:\Users\evila\source\repos\Exercises Switch\Switch Exercises Q3\obj\Debug\Switch Exercises Q3.csprojAssemblyReference.cache
+C:\Users\evila\source\repos\Exercises Switch\Switch Exercises Q3\obj\Debug\Switch Exercises Q3.csproj.CoreCompileInputs.cache
+C:\Users\evila\source\repos\Exercises Switch\Switch Exercises Q3\bin\Debug\Switch Exercises Q3.exe.config
+C:\Users\evila\source\repos\Exercises Switch\Switch Exercises Q3\bin\Debug\Switch Exercises Q3.exe
+C:\Users\evila\source\repos\Exercises Switch\Switch Exercises Q3\bin\Debug\Switch Exercises Q3.pdb
+C:\Users\evila\source\repos\Exercises Switch\Switch Exercises Q3\obj\Debug\Switch Exercises Q3.exe
+C:\Users\evila\source\repos\Exercises Switch\Switch Exercises Q3\obj\Debug\Switch Exercises Q3.pdb

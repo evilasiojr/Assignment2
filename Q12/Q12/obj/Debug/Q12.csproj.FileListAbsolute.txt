@@ -1,0 +1,7 @@
+C:\Users\evila\source\repos\Q12\Q12\bin\Debug\Q12.exe.config
+C:\Users\evila\source\repos\Q12\Q12\bin\Debug\Q12.exe
+C:\Users\evila\source\repos\Q12\Q12\bin\Debug\Q12.pdb
+C:\Users\evila\source\repos\Q12\Q12\obj\Debug\Q12.csprojAssemblyReference.cache
+C:\Users\evila\source\repos\Q12\Q12\obj\Debug\Q12.csproj.CoreCompileInputs.cache
+C:\Users\evila\source\repos\Q12\Q12\obj\Debug\Q12.exe
+C:\Users\evila\source\repos\Q12\Q12\obj\Debug\Q12.pdb

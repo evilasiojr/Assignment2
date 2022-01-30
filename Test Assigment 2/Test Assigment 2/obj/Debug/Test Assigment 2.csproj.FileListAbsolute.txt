@@ -1,0 +1,7 @@
+C:\Users\evila\source\repos\Test Assigment 2\Test Assigment 2\bin\Debug\Test Assigment 2.exe.config
+C:\Users\evila\source\repos\Test Assigment 2\Test Assigment 2\bin\Debug\Test Assigment 2.exe
+C:\Users\evila\source\repos\Test Assigment 2\Test Assigment 2\bin\Debug\Test Assigment 2.pdb
+C:\Users\evila\source\repos\Test Assigment 2\Test Assigment 2\obj\Debug\Test Assigment 2.csprojAssemblyReference.cache
+C:\Users\evila\source\repos\Test Assigment 2\Test Assigment 2\obj\Debug\Test Assigment 2.csproj.CoreCompileInputs.cache
+C:\Users\evila\source\repos\Test Assigment 2\Test Assigment 2\obj\Debug\Test Assigment 2.exe
+C:\Users\evila\source\repos\Test Assigment 2\Test Assigment 2\obj\Debug\Test Assigment 2.pdb

@@ -1,0 +1,7 @@
+C:\Users\evila\source\repos\Studying Visual\Studying Visual\bin\Debug\Studying Visual.exe.config
+C:\Users\evila\source\repos\Studying Visual\Studying Visual\bin\Debug\Studying Visual.exe
+C:\Users\evila\source\repos\Studying Visual\Studying Visual\bin\Debug\Studying Visual.pdb
+C:\Users\evila\source\repos\Studying Visual\Studying Visual\obj\Debug\Studying Visual.csprojAssemblyReference.cache
+C:\Users\evila\source\repos\Studying Visual\Studying Visual\obj\Debug\Studying Visual.csproj.CoreCompileInputs.cache
+C:\Users\evila\source\repos\Studying Visual\Studying Visual\obj\Debug\Studying Visual.exe
+C:\Users\evila\source\repos\Studying Visual\Studying Visual\obj\Debug\Studying Visual.pdb

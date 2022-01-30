@@ -1,0 +1,7 @@
+C:\Users\evila\source\repos\Studying Visual\Creating Objects\bin\Debug\Creating Objects.exe.config
+C:\Users\evila\source\repos\Studying Visual\Creating Objects\bin\Debug\Creating Objects.exe
+C:\Users\evila\source\repos\Studying Visual\Creating Objects\bin\Debug\Creating Objects.pdb
+C:\Users\evila\source\repos\Studying Visual\Creating Objects\obj\Debug\Creating Objects.csprojAssemblyReference.cache
+C:\Users\evila\source\repos\Studying Visual\Creating Objects\obj\Debug\Creating Objects.csproj.CoreCompileInputs.cache
+C:\Users\evila\source\repos\Studying Visual\Creating Objects\obj\Debug\Creating Objects.exe
+C:\Users\evila\source\repos\Studying Visual\Creating Objects\obj\Debug\Creating Objects.pdb
