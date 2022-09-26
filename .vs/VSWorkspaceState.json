@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\public",
+    "\\public\\Assets",
+    "\\public\\Assets\\images",
+    "\\public\\Content",
+    "\\public\\Scripts",
+    "\\server",
+    "\\server\\views",
+    "\\server\\views\\partials"
+  ],
+  "SelectedNode": "\\server\\views\\partials\\bottom_nav.ejs",
+  "PreviewInSolutionExplorer": false
+}

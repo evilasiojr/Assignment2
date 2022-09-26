@@ -1,5 +1,5 @@
 {
-  "name": "assignment2",
+  "name": "personalwp",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -42,12 +42,9 @@
     "@types/passport-local": "^1.0.33",
     "@types/passport-local-mongoose": "^4.0.14"
   },
-  "description": "Assignment2",
+  "description": "Personal Web Page",
   "main": "server.js",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/evilasiojr/COMP229-Assignment2.git"
-  },
+  "repository": "git+https://github.com/evilasiojr/Personal-Web-Page.git",
   "author": "Evilasio Junior",
   "license": "ISC",
   "bugs": {

@@ -2,7 +2,7 @@ Arguments:
   C:\Program Files (x86)\nodejs\node.exe C:\Users\evila\AppData\Roaming\npm\node_modules\yarn\bin\yarn.js install
 
 PATH: 
-  C:\Program Files\Python39\Scripts\;C:\Program Files\Python39\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Users\evila\Desktop\WINDOWS.X64_193000_db_home\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Program Files (x86)\nodejs\;C:\Users\evila\AppData\Local\Programs\Python\Python39\Scripts\;C:\Users\evila\AppData\Local\Programs\Python\Python39\;C:\Users\evila\AppData\Local\Microsoft\WindowsApps;C:\Users\evila\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\evila\.dotnet\tools;C:\Program Files\Git\bin;C:\Program Files (x86)\nodejs;C:\Users\evila\AppData\Roaming\npm;C:\Program Files\MongoDB\Server\4.4\bin;C:\Program Files\Oracle;C:\Users\evila\AppData\Local\Programs\mongosh\
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\\Extensions\Microsoft\IntelliCode\CLI;C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86;C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\VC\VCPackages;C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\TestWindow;C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer;C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\bin\Roslyn;C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Team Tools\Performance Tools;C:\Program Files (x86)\Microsoft Visual Studio\Shared\Common\VSPerfCollectionTools\vs2019\;C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\;C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\FSharp\Tools;C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\Tools\devinit;C:\Program Files (x86)\Windows Kits\10\bin\10.0.19041.0\x86;C:\Program Files (x86)\Windows Kits\10\bin\x86;C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\\MSBuild\Current\Bin;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\;C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\Tools\;C:\Program Files\Eclipse Foundation\jdk-8.0.302.8-hotspot\bin;C:\Program Files\Python39\Scripts\;C:\Program Files\Python39\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Users\evila\Desktop\WINDOWS.X64_193000_db_home\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\nodejs\;C:\Program Files\Git\cmd;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Amazon\AWSCLIV2\;C:\Users\evila\anaconda3;C:\Users\evila\anaconda3\Library\mingw-w64\bin;C:\Users\evila\anaconda3\Library\usr\bin;C:\Users\evila\anaconda3\Library\bin;C:\Users\evila\anaconda3\Scripts;C:\Users\evila\AppData\Local\Microsoft\WindowsApps;C:\Users\evila\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\evila\.dotnet\tools;C:\Program Files\Git\bin;C:\Program Files (x86)\nodejs;C:\Users\evila\AppData\Roaming\npm;C:\Program Files\MongoDB\Server\4.4\bin;C:\Program Files\Oracle;C:\Users\evila\AppData\Local\GitHubDesktop\bin;C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin;C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\Ninja;C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\VC\Linux\bin\ConnectionManagerExe
 
 Yarn version: 
   1.22.10
@@ -28,7 +28,7 @@ Trace:
 
 npm manifest: 
   {
-    "name": "comp229-f2020-week6",
+    "name": "assignment2",
     "version": "0.0.1",
     "private": true,
     "scripts": {
@@ -73,13 +73,17 @@ npm manifest:
     },
     "description": "Assignment2",
     "main": "server.js",
-    "repository": "git+https://github.com/evilasiojr/COMP229-Assignment2.git",
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/evilasiojr/COMP229-Assignment2.git"
+    },
     "author": "Evilasio Junior",
     "license": "ISC",
     "bugs": {
       "url": "https://github.com/evilasiojr/COMP229-Assignment1/issues"
     },
-    "homepage": "https://github.com/evilasiojr/COMP229-Assignment1git"
+    "homepage": "https://github.com/evilasiojr/COMP229-Assignment1git",
+    "keywords": []
   }
 
 yarn manifest: 
